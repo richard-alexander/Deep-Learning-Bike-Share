@@ -1,1 +1,3 @@
 "# Deep-Learning-Bike-Share" 
+
+Lot's of fun with deep learning!  Check out the python Jupyter notebook, and see if you can tuen the parameters better...
